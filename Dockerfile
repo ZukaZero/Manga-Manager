@@ -1,4 +1,4 @@
-FROM ghcr.io/linuxserver/baseimage-rdesktop-web:jammy
+FROM ghcr.io/linuxserver/baseimage-rdesktop-web:arm32v7-fedora
 
 ENV DEBIAN_FRONTEND=noninteractive
 ENV UID=1000
